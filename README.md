@@ -19,7 +19,7 @@ An automated workflow built with [Make](https://make.com) that monitors a video 
 
 ## Built With
 
-- [Make](https://make.com) (formerly Integromat)
+- [Make](https://make.com) 
 - HTTP module
 - Text Parser (Regex pattern matching)
 - Gmail integration
